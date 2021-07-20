@@ -1,0 +1,16 @@
+PODS:
+  - MyStudyPrivateCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - MyStudyPrivateCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  MyStudyPrivateCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyStudyPrivateCocoapods: caa06debc13f6f9553cb856b06bee9e3984d9da6
+
+PODFILE CHECKSUM: 9260ee068728669b3ac306c4d3b01fb46bdff3b7
+
+COCOAPODS: 1.10.0

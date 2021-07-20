@@ -1,0 +1,27 @@
+{
+  "name": "MyStudyPrivateCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of MyStudyPrivateCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BaoziSwifter/MyStudyPrivateCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BaoziSwifter": "duanlongfed@126.com"
+  },
+  "source": {
+    "git": "https://github.com/BaoziSwifter/MyStudyPrivateCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyStudyPrivateCocoapods/Classes/**/*",
+  "dependencies": {
+    "SupportLib": [
+
+    ]
+  }
+}
