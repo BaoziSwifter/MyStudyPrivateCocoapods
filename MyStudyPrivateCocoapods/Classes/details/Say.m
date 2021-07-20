@@ -8,5 +8,7 @@
 #import "Say.h"
 
 @implementation Say
-
++ (void)say {
+    NSLog(@"---hi--------");
+}
 @end
